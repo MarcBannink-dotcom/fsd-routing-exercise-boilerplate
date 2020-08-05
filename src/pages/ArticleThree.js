@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ArticleOne = () => {
+const ArticleThree = () => {
     return(
         <>
             <h1>When debugging, your attitude matters</h1>
@@ -11,4 +11,4 @@ const ArticleOne = () => {
     );
 }
 
-export default ArticleOne;
+export default ArticleThree;
